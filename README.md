@@ -27,17 +27,15 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Pixemator](https://www.pngfind.com/pngs/m/179-1797253_pixelmator-logo-png-transparent-png.png)
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ganesh-kumar-991706224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/__masked._.shadow__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:iamganeshkumar.official@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/ganesh-kumar-991706224/">Linkedin</a>
+<a href="https://www.instagram.com/__masked._.shadow__/">Instagram</a>
+<a href="mailto:iamganeshkumar.official@gmail.com">Email</a>
 </p>
 
 ⭐️ From [GaneshXDev](https://github.com/GaneshXDev)
