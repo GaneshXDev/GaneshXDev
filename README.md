@@ -32,9 +32,9 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ganesh-kumar-991706224/">Linkedin</a>
-<a href="https://www.instagram.com/__masked._.shadow__/">Instagram</a>
+<p>
+<a href="https://www.linkedin.com/in/ganesh-kumar-991706224/">Linkedin</a><br/>
+<a href="https://www.instagram.com/__masked._.shadow__/">Instagram</a><br/>
 <a href="mailto:iamganeshkumar.official@gmail.com">Email</a>
 </p>
 
